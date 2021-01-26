@@ -1,0 +1,11 @@
+BigQuery/Predicatebulider.class
+BigQuery/LiteralImpl.class
+BigQuery/Mapping.class
+BigQuery/TableMeta.class
+BigQuery/FunctionImpl.class
+BigQuery/Aggregate.class
+BigQuery/ExpressionBuilder.class
+BigQuery/TableBuilder.class
+BigQuery/Bigquery.class
+BigQuery/Test.class
+BigQuery/EntityImpl.class

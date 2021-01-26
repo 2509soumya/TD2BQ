@@ -1,0 +1,15 @@
+com/self/queryparsers/refactor/utils/CaseWhenThenParser.class
+com/self/queryparsers/refactor/AggregatesParser.class
+com/self/queryparsers/refactor/utils/Parser.class
+com/self/queryparsers/Test.class
+com/self/queryparsers/refactor/PredicatesParser.class
+com/self/queryparsers/refactor/SelectionParser.class
+com/self/queryparsers/refactor/ProjectionsParser.class
+com/self/queryparsers/refactor/ColumnAggregateParser.class
+com/self/queryparsers/QueryParser.class
+com/self/queryparsers/refactor/utils/ParserRegex.class
+com/self/queryparsers/refactor/utils/ExpressionParser.class
+com/self/queryparsers/refactor/utils/UtilityParsers.class
+com/self/queryparsers/refactor/TableJoinParser.class
+com/self/queryparsers/refactor/utils/FunctionsParser.class
+com/self/queryparsers/refactor/utils/ConditionParser.class

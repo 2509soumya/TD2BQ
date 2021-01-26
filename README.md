@@ -1,0 +1,1 @@
+Library to convert select queries from Teradata to Bigquery

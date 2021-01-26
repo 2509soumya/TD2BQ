@@ -1,0 +1,15 @@
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/refactor/SelectionParser.java
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/refactor/TableJoinParser.java
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/refactor/utils/ParserRegex.java
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/refactor/utils/ExpressionParser.java
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/refactor/ProjectionsParser.java
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/refactor/PredicatesParser.java
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/QueryParser.java
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/refactor/utils/FunctionsParser.java
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/refactor/ColumnAggregateParser.java
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/refactor/utils/UtilityParsers.java
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/Test.java
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/refactor/utils/CaseWhenThenParser.java
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/refactor/AggregatesParser.java
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/refactor/utils/ConditionParser.java
+/Users/s0r0282/eclipse-workspace/TD2BQ/queryParser/src/main/java/com/self/queryparsers/refactor/utils/Parser.java

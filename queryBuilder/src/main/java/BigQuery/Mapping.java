@@ -11,7 +11,7 @@ public class Mapping {
     Map<String, String> data = new HashMap<String, String>();
     HashMap map = new HashMap();
 
-    public static String teradata_datechars="(?i)(MMMM|M4|MMM|M3|MM|DDD|D3|DD|YYYY|Y4|YY|EEEE|E4|EEE|E3|HH|MI|SS|T)";
+    public static String teradata_datechars="(?i)(MMMM|M4|MMM|MON|M3|MM|DDD|D3|DD|YYYY|Y4|YY|EEEE|E4|EEE|E3|HH|MI|SS|T)";
     public static String teradata_datebreakchars="([/]|[Bb]|[,]|[']|[:]|[.]|[-]|[h]|[m]|[s]|[\\s]+)";
 
     public String getBigQueryKeywordFrom(String teraFunc)
@@ -140,6 +140,7 @@ public class Mapping {
             case "MMMM" : return "%B";
             case "M4" : return "%B";
             case "MMM" : return "%b";
+            case "MON" : return "%b";
             case "M3" : return "%b";
             case "MM" : return "%m";
             case "M2" : return "%m";

@@ -57,6 +57,7 @@ public class QueryParser {
 	}
 	
 	public JSONObject parse() {
+		query=query.replaceAll("\n"," ");
 		JSONObject responseobject=new JSONObject();
 		JSONArray finaljsonarr=new JSONArray();
 		try {
